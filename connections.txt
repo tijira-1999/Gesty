@@ -1,0 +1,53 @@
+gesty
+
+pins
+0 - 
+1 - 
+2 - left leds
+3 - ENA 
+4 - right leds
+5 - front leds
+6 - back leds
+7 - CE
+8 - CSN
+9 - servo
+10 - 
+11 - MOSI
+12 - MISO
+13 - SCK    
+A0 - INA 
+A1 - INB 
+A2 - 
+A3 - 
+A4 - 
+A5 - 
+A6
+A7
+
+
+
+Transmitter
+
+pins
+0 - RX
+1 - TX
+2 - INT (MPU6050)
+3 - BUZZER
+4 - L1 (BACKWARD)
+5 - L2 (RIGHT)
+6 - L3 (LEFT)
+7 - L4 (CENTER/STOP)
+8 - L5 (FORWARD)
+9 - CE
+10 - CSN
+11 - MOSI
+12 - MISO
+13 - SCK
+A0 - POT(10K)
+A1 - POT(10K)
+A2 - POT(10K)
+A3 - POT(10K)
+A4 - SDA (MPU6050)
+A5 - SCL (MPU6050)
+A6
+A7
